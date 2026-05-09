@@ -1,0 +1,6 @@
+{
+  "name": "Photo Crop Master",
+  "description": "A polished photo gallery and circular cropping tool with smooth pinch-to-zoom and drag interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
